@@ -1,0 +1,10 @@
+{"_id":{"$oid":"5ca1cb11f6bbde0b49822602"},"name":"男装","tid":"1"}
+{"_id":{"$oid":"5ca1cb15f6bbde0b49822604"},"name":"女装","tid":"0"}
+{"_id":{"$oid":"5ca1cb1bf6bbde0b49822606"},"name":"母婴","tid":"2"}
+{"_id":{"$oid":"5ca1cb1ff6bbde0b4982260a"},"name":"鞋子","tid":"3"}
+{"_id":{"$oid":"5ca1cb22f6bbde0b4982260c"},"name":"箱包","tid":"4"}
+{"_id":{"$oid":"5ca1cb25f6bbde0b4982260e"},"name":"居家百货","tid":"5"}
+{"_id":{"$oid":"5ca1cb28f6bbde0b49822610"},"name":"家电数码","tid":"6"}
+{"_id":{"$oid":"5ca1cb2cf6bbde0b49822613"},"name":"内衣配饰","tid":"7"}
+{"_id":{"$oid":"5ca1cb2ff6bbde0b49822615"},"name":"美妆","tid":"8"}
+{"_id":{"$oid":"5ca1cb32f6bbde0b49822617"},"name":"运动户外","tid":"9"}

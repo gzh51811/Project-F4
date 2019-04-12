@@ -1,0 +1,51 @@
+{"_id":{"$oid":"5c9f23d97680239acaf7026a"},"name":"懒人套装","tid":"0","cid":"1","img":"nv1.webp"}
+{"_id":{"$oid":"5c9f2e587680239acaf7026b"},"name":"牛仔裤","tid":"0","cid":"2","img":"nv2.webp"}
+{"_id":{"$oid":"5c9f2e597680239acaf7026c"},"name":"女士套装","tid":"0","cid":"3","img":"nv3.webp"}
+{"_id":{"$oid":"5c9f2e597680239acaf7026d"},"name":"休闲裤","tid":"0","cid":"4","img":"nv4.webp"}
+{"_id":{"$oid":"5c9f2e597680239acaf7026e"},"name":"职业套装","tid":"0","cid":"5","img":"nv5.webp"}
+{"_id":{"$oid":"5c9f2e5a7680239acaf7026f"},"name":"羽绒棉服","tid":"1","cid":"6","img":"nan1.webp"}
+{"_id":{"$oid":"5c9f2e5a7680239acaf70270"},"name":"秋上新","tid":"1","cid":"7","img":"nan2.webp"}
+{"_id":{"$oid":"5c9f2e5b7680239acaf70271"},"name":"夹克 ","tid":"1","cid":"8","img":"nan3.webp"}
+{"_id":{"$oid":"5c9f2e5b7680239acaf70272"},"name":"背心","tid":"1","cid":"9","img":"nan4.webp"}
+{"_id":{"$oid":"5c9f2e5c7680239acaf70273"},"name":"男童套装","tid":"2","cid":"10","img":"mu1.webp"}
+{"_id":{"$oid":"5c9f2e5c7680239acaf70274"},"name":"女童套装","tid":"2","cid":"11","img":"mu2.webp"}
+{"_id":{"$oid":"5c9f2e5d7680239acaf70275"},"name":"儿童裙装","tid":"2","cid":"12","img":"mu3.webp"}
+{"_id":{"$oid":"5c9f2e5d7680239acaf70276"},"name":"儿童上衣","tid":"2","cid":"13","img":"mu4.webp"}
+{"_id":{"$oid":"5c9f2e5d7680239acaf70277"},"name":"儿童裤子","tid":"2","cid":"14","img":"mu5.webp"}
+{"_id":{"$oid":"5c9f2e5e7680239acaf70278"},"name":"女休闲鞋","tid":"3","cid":"15","img":"x1.webp"}
+{"_id":{"$oid":"5c9f2e5e7680239acaf70279"},"name":"高跟鞋","tid":"3","cid":"16","img":"x2.webp"}
+{"_id":{"$oid":"5c9f2e5f7680239acaf7027a"},"name":"平跟单鞋","tid":"3","cid":"17","img":"x3.webp"}
+{"_id":{"$oid":"5c9f2e5f7680239acaf7027b"},"name":"商务皮鞋","tid":"3","cid":"18","img":"x4.webp"}
+{"_id":{"$oid":"5c9f2e607680239acaf7027c"},"name":"坡跟厚底","tid":"3","cid":"19","img":"x5.webp"}
+{"_id":{"$oid":"5c9f2e607680239acaf7027d"},"name":"提挎包","tid":"4","cid":"20","img":"b1.webp"}
+{"_id":{"$oid":"5c9f2e607680239acaf7027e"},"name":"双肩包","tid":"4","cid":"21","img":"b2.webp"}
+{"_id":{"$oid":"5c9f2e617680239acaf7027f"},"name":"手提包","tid":"4","cid":"22","img":"b3.webp"}
+{"_id":{"$oid":"5c9f2e617680239acaf70280"},"name":"拉杆箱","tid":"4","cid":"23","img":"b4.webp"}
+{"_id":{"$oid":"5c9f2e627680239acaf70281"},"name":"斜挎包","tid":"4","cid":"24","img":"b5.webp"}
+{"_id":{"$oid":"5c9f2e627680239acaf70282"},"name":"床品套件","tid":"5","cid":"25","img":"j1.webp"}
+{"_id":{"$oid":"5c9f2e637680239acaf70283"},"name":"纸巾纸","tid":"5","cid":"26","img":"j2.webp"}
+{"_id":{"$oid":"5c9f2e637680239acaf70284"},"name":"百货日杂","tid":"5","cid":"27","img":"j3.webp"}
+{"_id":{"$oid":"5c9f2e647680239acaf70285"},"name":"清洁工具","tid":"5","cid":"28","img":"j4.webp"}
+{"_id":{"$oid":"5c9f2e647680239acaf70286"},"name":"个护洗护","tid":"5","cid":"29","img":"j5.webp"}
+{"_id":{"$oid":"5c9f2e657680239acaf70287"},"name":"智能手机","tid":"6","cid":"30","img":"jia1.webp"}
+{"_id":{"$oid":"5c9f2e657680239acaf70288"},"name":"老人机","tid":"6","cid":"31","img":"jia2.webp"}
+{"_id":{"$oid":"5c9f2e677680239acaf70289"},"name":"手机配件","tid":"6","cid":"32","img":"jia3.webp"}
+{"_id":{"$oid":"5c9f2e687680139acaf7028a"},"name":"洗衣机","tid":"6","cid":"4","img":"jia4.webp"}
+{"_id":{"$oid":"5c9f2e687680239acaf7028a"},"name":"洗衣机","tid":"6","cid":"33","img":"jia4.webp"}
+{"_id":{"$oid":"5c9f2e687680239acaf7028b"},"name":"冰箱","tid":"6","cid":"34","img":"jia5.webp"}
+{"_id":{"$oid":"5c9f2e687680239acaf7028c"},"name":"女士家居","tid":"7","cid":"35","img":"nei1.webp"}
+{"_id":{"$oid":"5c9f2e697680239acaf7028d"},"name":"文胸","tid":"7","cid":"36","img":"nei2.webp"}
+{"_id":{"$oid":"5c9f2e697680239acaf7028e"},"name":"文胸套装","tid":"7","cid":"37","img":"nei3.webp"}
+{"_id":{"$oid":"5c9f2e6a7680239acaf7028f"},"name":"保暖内衣","tid":"7","cid":"38","img":"nei4.webp"}
+{"_id":{"$oid":"5c9f2e6a7680239acaf70290"},"name":"女士内裤","tid":"7","cid":"39","img":"nei5.webp"}
+{"_id":{"$oid":"5c9f2e6b7680239acaf70291"},"name":"护肤品 ","tid":"8","cid":"40","img":"mei1.webp"}
+{"_id":{"$oid":"5c9f2e6c7680239acaf70292"},"name":"彩妆香氛 ","tid":"8","cid":"41","img":"mei2.webp"}
+{"_id":{"$oid":"5c9f2e6c7680239acaf70293"},"name":"美容工具 ","tid":"8","cid":"42","img":"mei3.webp"}
+{"_id":{"$oid":"5c9f2e6d7680239acaf70294"},"name":"身体护理 ","tid":"8","cid":"43","img":"mei4.webp"}
+{"_id":{"$oid":"5c9f2e6d7680239acaf70295"},"name":"头发护理 ","tid":"8","cid":"44","img":"mei5.webp"}
+{"_id":{"$oid":"5c9f2e6d7680239acaf70296"},"name":"运动男鞋","tid":"9","cid":"45","img":"mei1.webp"}
+{"_id":{"$oid":"5c9f2e6e7680239acaf70297"},"name":"运动男装","tid":"9","cid":"46","img":"mei2.webp"}
+{"_id":{"$oid":"5c9f2e6e7680239acaf70298"},"name":"健身器材","tid":"9","cid":"47","img":"mei3.webp"}
+{"_id":{"$oid":"5c9f2e6f7680239acaf70299"},"name":"运动女鞋","tid":"9","cid":"48","img":"mei4.webp"}
+{"_id":{"$oid":"5c9f2e6f7680239acaf7029a"},"name":"运动女装","tid":"9","cid":"49","img":"mei5.webp"}
+{"_id":{"$oid":"5c9f2e727680239acaf702a0"},"name":"舞蹈瑜伽","tid":"9","cid":"50","img":"mei6.webp"}
